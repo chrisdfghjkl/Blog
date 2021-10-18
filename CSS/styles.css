@@ -7,3 +7,8 @@
   font-weight: bold;
   font-family: 'Courier New', Courier, monospace;
 }
+p{
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
