@@ -1,8 +1,9 @@
 .highlight{
   color: red;
   font-weight: bolder;
-  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
 }
 .posts{
-  font-style: italic;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
 }
