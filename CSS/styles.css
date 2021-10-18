@@ -12,3 +12,13 @@ p{
   font-style: italic;
   font-weight: bold;
 }
+p.post1{
+  margin-top: 100px;
+  margin-bottom: 75px;
+}
+p.post2{
+  margin-bottom: 75px;
+}
+p.post3{
+  margin-bottom: 75px;
+}
